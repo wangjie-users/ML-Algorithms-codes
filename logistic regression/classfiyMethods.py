@@ -1,5 +1,5 @@
 '''
-created in 2017/12/18
+created on 2017/12/18
 用逻辑回归预测疝气病马的死亡率
 @author: Jie Wang
 
