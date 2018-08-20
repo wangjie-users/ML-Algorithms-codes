@@ -1,5 +1,5 @@
 '''
-Created in 2017/12/15
+Created on 2017/12/15
 Logistic Regression Algorithms
 @author: Jie Wang
 
